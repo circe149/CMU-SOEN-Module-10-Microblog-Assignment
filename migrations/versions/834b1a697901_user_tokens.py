@@ -9,6 +9,7 @@ from alembic import op
 import sqlalchemy as sa
 
 
+# flake8: noqa
 # revision identifiers, used by Alembic.
 revision = '834b1a697901'
 down_revision = 'c81bac34faab'
